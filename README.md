@@ -1,3 +1,5 @@
-# Nitrogen
+# Nitrogen Linux
 
-Repository for Nitrogen Linux and its website, here I will upload source code of the custom kernel and more
+## Linux Distribution made and Tuned by Nitrogen Project
+
+Performance, simplified. 
