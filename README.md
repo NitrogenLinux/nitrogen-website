@@ -1,5 +1,3 @@
-# Nitrogen Linux
+# Nitrogen Website
 
-## Linux Distribution made and Tuned by Nitrogen Project
-
-Performance, simplified. 
+Repository for the Nitrogen Project website.
